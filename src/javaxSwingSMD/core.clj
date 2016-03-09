@@ -1,7 +1,7 @@
 (ns javaxSwingSMD.core
   (:gen-class)
 )
-
+;; 9th March 2016 - converted into lein project and runs OK
 ;; 24 April 2015
 ;; mod to read real System property
 ;; (str "Hello" User)
