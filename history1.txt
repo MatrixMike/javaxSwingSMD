@@ -1,0 +1,1000 @@
+ 1122  pwdd
+ 1123  pwd
+ 1124  history 
+ 1125  ls -lc
+ 1126  history > historyClojure1.txt
+ 1127  cat historyClojure1.txt 
+ 1128  java -cp clojure-1.8.0.jar clojure.main ~/clojure2016/clojure/crossw2.clj 
+ 1129  java -cp clojure-1.8.0.jar clojure.main 
+ 1130  ls -lc
+ 1131  java -cp clojure-1.8.0.jar clojure.main 
+ 1132  history 
+ 1133  pwd
+ 1134  history 
+ 1135  ls -lc
+ 1136  history > historyClojure1.txt 
+ 1137  ls -lc
+ 1138  cd clojure/
+ 1139  ls -lc
+ 1140  cd ..
+ 1141  ls -lc
+ 1142  tree
+ 1143  java -cp clojure-1.8.0.jar clojure.main 
+ 1144  ls -lc
+ 1145  git status
+ 1146  cat crossw2.clj 
+ 1147  gitk
+ 1148  ifconfig 
+ 1149  java -cp clojure-1.8.0.jar  ~/clojure/clojure-1.8.0/clojure.main ~/clojure2016/clojure/crossw2.clj 
+ 1150  ifconfig 
+ 1151  ls -lct
+ 1152  cat crossw2.clj
+ 1153  git status
+ 1154  git add crossw2.clj
+ 1155  git status
+ 1156  git commit -a
+ 1157  git status
+ 1158  git push
+ 1159  gitk
+ 1160  cal
+ 1161  date 
+ 1162  time
+ 1163  cal
+ 1164  ls -lct
+ 1165  git status
+ 1166  git add crossw2.clj
+ 1167  git commit -a
+ 1168  gitk
+ 1169  git status
+ 1170  ls -lct
+ 1171  history 
+ 1172  java -cp clojure-1.8.0.jar clojure.main 
+ 1173  date 
+ 1174  java -cp clojure-1.8.0.jar clojure.main 
+ 1175  df -h
+ 1176  cal
+ 1177  cal 2016
+ 1178  dmesg 
+ 1179  dmesg > ~/thisPC/dmesg8.txt
+ 1180  cd ~/javaCB/
+ 1181  ls -lc
+ 1182  java CBfreq 
+ 1183  cd ~/javaLowLevel/
+ 1184  git status
+ 1185  ifconfig 
+ 1186  dmesg 
+ 1187  ifconfig 
+ 1188  dmesg 
+ 1189  cal 2016
+ 1190  exit
+ 1191  scala
+ 1192  javac -version
+ 1193  cd ~/scala/
+ 1194  ls -lc
+ 1195  cd scala/
+ 1196  ls -lc
+ 1197  scala gears.scala 
+ 1198  scala steveGreen.scala 
+ 1199  cd hello/
+ 1200  ls -lc
+ 1201  cat hw.scala 
+ 1202  scala hw.scala 
+ 1203  cd ..
+ 1204  cat steveGreen.scala 
+ 1205  scala
+ 1206  dmesg 
+ 1207  df -h
+ 1208  cd /media/mikeh/USBWHITE/
+ 1209  ls -lc
+ 1210  cd BarChart/
+ 1211  ls -lc
+ 1212  javac BarChart.java 
+ 1213  ls -lc
+ 1214  cd ~/ArcTest/
+ 1215  ls -lc
+ 1216  javac Fiftypp.java 
+ 1217  ls -lct
+ 1218  javac ArcTest.java 
+ 1219  ls -lct
+ 1220  cd ~/Yagi/
+ 1221  ls -lct
+ 1222  javac ThreeD.java 
+ 1223  ls -lct
+ 1224  ls models/
+ 1225  cat out.ps 
+ 1226  cd ~/javaCB/
+ 1227  ls -lc
+ 1228  cd ~/javaLowLevel/
+ 1229  git status
+ 1230  cd ~/javaLowLevel/
+ 1231  git status
+ 1232  git add CBfreq.java 
+ 1233  git status
+ 1234  git commit -a
+ 1235  git status
+ 1236  git push
+ 1237  git status
+ 1238  ls -lc
+ 1239  git status
+ 1240  ls *.java -lct
+ 1241  javac CBfreq.java 
+ 1242  javac TabGen.java 
+ 1243  ls  -lct
+ 1244  cd ~/clojure
+ 1245  ls -lct
+ 1246  cd clojure-master/
+ 1247  ls -lct
+ 1248  lein version
+ 1249  lein new hellow
+ 1250  cd hellow/
+ 1251  ls -lct
+ 1252  cat project.clj 
+ 1253  lein jar
+ 1254  ls -lct
+ 1255  tree
+ 1256  cat project.clj 
+ 1257  lein compile
+ 1258  ls -lct
+ 1259  tree
+ 1260  lein compile
+ 1261  tree
+ 1262  java -jar hellow-1.0.0-SNAPSHOT.jar 
+ 1263  lein uberjar
+ 1264  java -jar hellow-1.0.0-SNAPSHOT.jar 
+ 1265  ls -lct
+ 1266  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1267  lein jar
+ 1268  lein uberjar
+ 1269  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1270  lein compile
+ 1271  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1272  ls -lct
+ 1273  tree
+ 1274  ls -lct
+ 1275  cat project.clj 
+ 1276  gedit project.clj 
+ 1277  lein uberjar
+ 1278  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1279  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar one two three
+ 1280  tree
+ 1281  ls -lct
+ 1282  ls -lcth
+ 1283  git status
+ 1284  cd ..
+ 1285  git status
+ 1286  cd 
+ 1287  ls -lct
+ 1288  cd hellow/
+ 1289  history | grep cd
+ 1290  cd clojure-master/
+ 1291  cd ~/clojure
+ 1292  cd clojure-master/
+ 1293  cd hellow/
+ 1294  pwd
+ 1295  ls -lct
+ 1296  ls -lcth
+ 1297  tree
+ 1298  cat README 
+ 1299  lein uberjar
+ 1300  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar one two three
+ 1301  lein uberjar
+ 1302  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar one two three
+ 1303  ls -lcth
+ 1304  tree
+ 1305  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar two four six eight
+ 1306  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar one two three
+ 1307  ls -lcth
+ 1308  gedit MJHNotes.txt
+ 1309  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar one two three
+ 1310  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar two four six eight
+ 1311  ls -lcth
+ 1312  df -h
+ 1313  lein
+ 1314  sudo apt-get install leinigen
+ 1315  df -h
+ 1316  cd ~/
+ 1317  find
+ 1318  find Kevin
+ 1319  find Kevin*
+ 1320  find --help
+ 1321  man find
+ 1322  history | grep find
+ 1323  find firefox
+ 1324  man find
+ 1325  find Kevin.*
+ 1326  man find
+ 1327  find . Kevin
+ 1328  find . Kevin*
+ 1329  find . Kevin*.txt
+ 1330  locate 
+ 1331  locate Kevin
+ 1332  lein repl
+ 1333  lein repl
+ 1334  cd ~/clojure/clojure-master/
+ 1335  ls -lc
+ 1336  lein repl 
+ 1337  cd ..
+ 1338  ls -lc
+ 1339  tree
+ 1340  cd  clojure-master/
+ 1341  ls -lc
+ 1342  lein new app stringEye
+ 1343  ls -lc
+ 1344  cd stringEye/
+ 1345  ls -lc
+ 1346  cat project.clj 
+ 1347  tree
+ 1348  history | grep lein
+ 1349  lein uberjar
+ 1350  tree
+ 1351  history | grep java
+ 1352  ls -lc
+ 1353  java -jar app-1.0.0-SNAPSHOT-standalone.jar 
+ 1354  lein uberjar
+ 1355  java -jar app-1.0.0-SNAPSHOT-standalone.jar 
+ 1356  lein uberjar
+ 1357  cd ../hellow/
+ 1358  lein uberjar
+ 1359  ls -lc
+ 1360  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1361  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar   a c   b
+ 1362  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar   z c b a
+ 1363  ls -lcth
+ 1364  cat project.clj
+ 1365  cat ../stringEye/project.clj
+ 1366  cd ../stringEye/
+ 1367  ls -lcth
+ 1368  lein compile 
+ 1369  cd ..
+ 1370  lein new  stringEye
+ 1371  tree
+ 1372  ls -lc
+ 1373  cd stringEye/
+ 1374  ls -lc
+ 1375  lein compile 
+ 1376  lein uberjar
+ 1377  java -jar stringEye-1.0.0-SNAPSHOT-standalone.jar 
+ 1378  cat project.clj
+ 1379  lein compile 
+ 1380  lein uberjar
+ 1381  java -jar stringEye-1.0.0-SNAPSHOT-standalone.jar 
+ 1382  tree
+ 1383  lein compile 
+ 1384  cd ../hellow/
+ 1385  tree
+ 1386  ls *.clj 
+ 1387  man ls
+ 1388  ls *.clj   -lcR
+ 1389  ls *.clj   -R
+ 1390  ls *.clj   -lcR
+ 1391  tree
+ 1392  man ls
+ 1393  ls    -lcR  *.clj
+ 1394  man ls
+ 1395  ls    -lc  *.clj
+ 1396  cat project.clj
+ 1397  cat src/hellow/core.clj
+ 1398  lein compile
+ 1399  cd ../stringEye/
+ 1400  ls -lc
+ 1401  lein compile
+ 1402  cd ../hellow/
+ 1403  lein compile
+ 1404  lein uberjar
+ 1405  java -jar hellow-1.0.0-SNAPSHOT.jar 
+ 1406  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1407  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar    one three nine
+ 1408  cd ../stringEye/
+ 1409  lein uberjar
+ 1410  lein compile
+ 1411  cd ../hellow/
+ 1412  lein compile
+ 1413  lein uberjar
+ 1414  java -jar hellow-1.0.0-SNAPSHOT.jar 
+ 1415  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1416  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar n b v c 
+ 1417  ls -lc
+ 1418  tree
+ 1419  cat project.clj
+ 1420  cat src/hellow/core.clj
+ 1421  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar n b v c z
+ 1422  cd ..
+ 1423  ls -lc
+ 1424  cat pelican-riders.clj 
+ 1425  git status
+ 1426  lein new pelicans
+ 1427  cd pelicans/
+ 1428  tree
+ 1429  cat project.clj 
+ 1430  ls -lc
+ 1431  lein compile 
+ 1432  tree
+ 1433  cd ../hellow/
+ 1434  tree
+ 1435  cat project.clj
+ 1436  cat src/hellow/core.clj
+ 1437  history | grep lp
+ 1438  lpstat 
+ 1439  tree
+ 1440  cat project.clj
+ 1441  cat src/hellow/core.clj
+ 1442  cd ../pelicans/
+ 1443  tree
+ 1444  cat project.clj
+ 1445  cat src/pelicans/core.clj
+ 1446  lein compile
+ 1447  lein
+ 1448  lein   version
+ 1449  lein   version > version3.txt
+ 1450  tree
+ 1451  cd ~/
+ 1452  lein upgrade
+ 1453  git clone (ns pelicans.core
+ 1454  (:gen-class ))
+ 1455  (:require   [clojure.string :as cstr];             [clojure.set :as cset])
+ 1456  (defn -main [& args];  (def riders ["mike" "graeme" "piet" " " "steve" "" "heinz" "23" "Colin"]);  (defn uppercase-first "Returns word with first letter in upper case" ; [word]; (if-not (or (empty? word) (nil? word))
+ 1457  (cstr/join (cons (cstr/upper-case (first word))
+ 1458  (rest word)))
+ 1459  word))
+ 1460  (def greeting "Hello")
+ 1461  (defn hello ; "Returns hello string" ; [who]; (str greeting  " " who "!" ))
+ 1462  (defn hello-riders ; "Returns greetings to all the riders."; []; (hello (cstr/join ", " (map uppercase-first  (reverse (sort riders))))))
+ 1463  (hello-riders)
+ 1464  )
+ 1465  ;; ( (first greeting) (last greeting))
+ 1466  ;; (cstr/join ( cons (first greeting) (last greeting)))
+ 1467  git clone https://github.com/MatrixMike/systemProperties.git
+ 1468  cd systemProperties/
+ 1469  tree
+ 1470  lein compile
+ 1471  lein uberjar
+ 1472  tree
+ 1473  java -jar systemProperties-1.0.0-SNAPSHOT-standalone.jar 
+ 1474  ls -lc
+ 1475  cat GX620a.txt 
+ 1476  java -jar systemProperties-1.0.0-SNAPSHOT-standalone.jar > Latitude1.txt
+ 1477  diff Latitude1.txt GX620.txt 
+ 1478  java -jar systemProperties-1.0.0-SNAPSHOT-standalone.jar 
+ 1479  tree
+ 1480  ls -lc
+ 1481  cat project.clj 
+ 1482  cat src/systemProperties/core.clj 
+ 1483  tree
+ 1484  cat project.clj 
+ 1485  cat src/systemProperties/core.clj 
+ 1486  cat project.clj 
+ 1487  cd ~/clojure2016/clojure/
+ 1488  ls -lc
+ 1489  ls -lct
+ 1490  gitk
+ 1491  lein repl
+ 1492  cd ~/clojure
+ 1493  ls -lc
+ 1494  ls clojure-master
+ 1495  cd clojure-master/
+ 1496  ls -lct
+ 1497  cd hellow/
+ 1498  ls -lct
+ 1499  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar 
+ 1500  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar "2469" 246
+ 1501  uname -a
+ 1502  ls -lct
+ 1503  cd ..
+ 1504  ls -lct
+ 1505  cd pelicans/
+ 1506  ls -lct
+ 1507  cat project.clj
+ 1508  cat src/pelicans/core.clj
+ 1509  lein compile
+ 1510  lein uberjar
+ 1511  ls -lc
+ 1512  cat crossw2.clj
+ 1513  lein repl
+ 1514  ls -lc
+ 1515  ls -lc
+ 1516  cd ..
+ 1517  ls -lc
+ 1518  cd stringEye/
+ 1519  ls -lc
+ 1520  lein compile
+ 1521  cat project.clj
+ 1522  cat src/stringEye/core.clj
+ 1523  lein compile
+ 1524  ls -lc
+ 1525  git status
+ 1526  ls -lc
+ 1527  git push
+ 1528  git pull
+ 1529  git status
+ 1530  cat project.clj
+ 1531  cat src/stringEye/core.clj
+ 1532  lein compile
+ 1533  lein uberjar
+ 1534  git status
+ 1535  cd ../pelicans/
+ 1536  git status
+ 1537  ls -lc
+ 1538  lein compile
+ 1539  ls -lc
+ 1540  clojure1.4  pelican-riders.clj 
+ 1541  cat pelican-riders.clj 
+ 1542  (println (hello-riders))
+ 1543  (defn hello-riders ; "Returns greetings to all the riders."; []; (hello (cstr/join ", " (map uppercase-first  (reverse (sort riders))))))
+ 1544  clojure1.4  
+ 1545  ls -lc
+ 1546  lein compile
+ 1547  lein repl
+ 1548  cd ~/javaxSwing/
+ 1549  ls -lc
+ 1550  lein run
+ 1551  tree
+ 1552  git status 
+ 1553  git add . 
+ 1554  git commit -a
+ 1555  git status 
+ 1556  git push
+ 1557  gitk
+ 1558  lein run
+ 1559  tree
+ 1560  lein run
+ 1561  ls -lc
+ 1562  tree
+ 1563  lein compile
+ 1564  tree
+ 1565  lein uberjar
+ 1566  tree
+ 1567  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 1568  ls -lc
+ 1569  cat README
+ 1570  cat README.md 
+ 1571  geany README.md 
+ 1572  lein uberjar
+ 1573  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 1574  git status 
+ 1575  git add .
+ 1576  git status 
+ 1577  git push
+ 1578  git status 
+ 1579  git add . 
+ 1580  git status 
+ 1581  gitk
+ 1582  lein uberjar
+ 1583  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 1584  lein
+ 1585  lein upgrade
+ 1586  lein run
+ 1587  cd ~/
+ 1588  lein
+ 1589  lein version
+ 1590  lein upgrade
+ 1591  pwd
+ 1592  cd ~/
+ 1593  pwd
+ 1594  git clone https://github.com/MatrixMike/bikeGears.git
+ 1595  tree
+ 1596  cd bikeGears/
+ 1597  tree
+ 1598  cat project.clj 
+ 1599  cat src/bikeGears/core.clj 
+ 1600  lein uberjar
+ 1601  java -jar bikeGears-1.0.0-SNAPSHOT-standalone.jar 
+ 1602  tree
+ 1603  lein
+ 1604  lein clean
+ 1605  tree
+ 1606  cat project.clj 
+ 1607  lein deps
+ 1608  tree
+ 1609  lein
+ 1610  lein classpath
+ 1611  lein deploy
+ 1612  lein help
+ 1613  lein install
+ 1614  tree
+ 1615  lein int
+ 1616  tree
+ 1617  cat pom.xml 
+ 1618  lein
+ 1619  lein run
+ 1620  lein search
+ 1621  lein test
+ 1622  lein
+ 1623  lein trampoline
+ 1624  lein upgrade
+ 1625  lein version
+ 1626  history 
+ 1627  lein run
+ 1628  cat src/bikeGears/core.clj 
+ 1629  cd ~/
+ 1630  ls -lct
+ 1631  cd javaLowLevel/
+ 1632  ls -lc
+ 1633  cat Dates1.java 
+ 1634  java Dates1 
+ 1635  lein version
+ 1636  cd ~/systemProperties/
+ 1637  lein run
+ 1638  cd ~/
+ 1639  git clone https://github.com/MatrixMike/javaxSwing.git
+ 1640  cd javaxSwing/
+ 1641  tree
+ 1642  lein run
+ 1643  tree
+ 1644  cat project.clj 
+ 1645  cat src/javaxSwing/core.clj 
+ 1646  lein run
+ 1647  lein compile
+ 1648  cat project.clj 
+ 1649  lein compile
+ 1650  tree
+ 1651  cd ~/
+ 1652  ls -l
+ 1653  ls -lct
+ 1654  ls -lctr
+ 1655  cd bikeGears/
+ 1656  cat project.clj 
+ 1657  cat src/bikeGears/core.clj 
+ 1658  cd ~/systemProperties/
+ 1659  cat project.clj 
+ 1660  cat src/systemProperties/core.clj 
+ 1661  cd ~/javaxSwing/
+ 1662  lein compile
+ 1663  lein run
+ 1664  tree
+ 1665  git status
+ 1666  git add .
+ 1667  git status
+ 1668  git commit -a
+ 1669  git push
+ 1670  gitk
+ 1671  lein run
+ 1672  tree
+ 1673  gitk
+ 1674  lein run
+ 1675  tree
+ 1676  cd classes/javaxSwing/ 
+ 1677  ls -lc
+ 1678  ls core -lc
+ 1679  lein clean
+ 1680  lein run
+ 1681  lein compile
+ 1682  cd ~/javaxSwing/
+ 1683  lein run
+ 1684  tree
+ 1685  lein clean
+ 1686  lein run
+ 1687  tree
+ 1688  lein run
+ 1689  ls -lc
+ 1690  cat diagonal.c 
+ 1691  cd ~/
+ 1692  ls -lctr
+ 1693  cat cube2.txt 
+ 1694  lein new cube444Freetronics
+ 1695  cd cube444Freetronics/
+ 1696  ls -lc
+ 1697  tree
+ 1698  lein compile
+ 1699  lein uberjar
+ 1700  java -jar cube444Freetronics-1.0.0-SNAPSHOT-standalone.jar 
+ 1701  ls -lctr
+ 1702  cat cube2.txt 
+ 1703  tree
+ 1704  ls -lctr
+ 1705  tree
+ 1706  cat project.clj 
+ 1707  git init
+ 1708  tree
+ 1709  git status
+ 1710  gitk
+ 1711  git status
+ 1712  gitk
+ 1713  git status
+ 1714  git push
+ 1715  git push https://github.com/MatrixMike/cube444Freetronics.git
+ 1716  lein compile
+ 1717  lein uberjar
+ 1718  java -jar cube444Freetronics-1.0.0-SNAPSHOT-standalone.jar 
+ 1719  ls -lctr
+ 1720  cat cube2.txt 
+ 1721  git status
+ 1722  git add .
+ 1723  git status
+ 1724  cat .gitignore 
+ 1725  ls -lc
+ 1726  git status
+ 1727  gitk
+ 1728  git status
+ 1729  git push
+ 1730  git push https://github.com/MatrixMike/cube444Freetronics.git
+ 1731  ls -lctr
+ 1732  rm cube2.txt 
+ 1733  lein compile
+ 1734  lein uberjar
+ 1735  tree
+ 1736  ls -lctr
+ 1737  rm cube2.txt 
+ 1738  ls -lctr
+ 1739  java -jar cube444Freetronics-1.0.0-SNAPSHOT-standalone.jar 
+ 1740  ls -lctr
+ 1741  cat project.clj 
+ 1742  cat src/cube444Freetronics/core.clj 
+ 1743  ls -lctr
+ 1744  rm cube2.txt 
+ 1745  lein run
+ 1746  ls -lctr
+ 1747  cat cube2.txt 
+ 1748  tree
+ 1749  cd ~/clojure/clojure-master/
+ 1750  ls -lctr
+ 1751  cat cubeCoords.clj 
+ 1752  git status
+ 1753  cat crossw2.clj 
+ 1754  ls -lc
+ 1755  cat crossw2.clj 
+ 1756  cd ~
+ 1757  ls -lc
+ 1758  uptime 
+ 1759  date 
+ 1760  ls -lc
+ 1761  cd ~/
+ 1762  ls -lct
+ 1763  ls -lctr
+ 1764  cd systemProperties/
+ 1765  tree
+ 1766  java -jar systemProperties-1.0.0-SNAPSHOT-standalone.jar 
+ 1767  ls -lc
+ 1768  cat GX620.txt 
+ 1769  cat GX620a.txt 
+ 1770  ls -lc
+ 1771  lein compile
+ 1772  lein uberjar
+ 1773  java -jar systemProperties-1.0.0-SNAPSHOT.jar 
+ 1774  java -jar systemProperties-1.0.0-SNAPSHOT-standalone.jar 
+ 1775  cd ~/
+ 1776  ls -lc
+ 1777  ls -lctr
+ 1778  cd bikeGears/
+ 1779  tree
+ 1780  java -jar bikeGears-1.0.0-SNAPSHOT.jar 
+ 1781  lein compile
+ 1782  tree
+ 1783  lein uberjar
+ 1784  tree
+ 1785  java -jar bikeGears-1.0.0-SNAPSHOT-standalone.jar 
+ 1786  tree
+ 1787  cd ~/
+ 1788  ls -lctr
+ 1789  cd javaxSwing/
+ 1790  tree
+ 1791  lein compile
+ 1792  lein uberjar
+ 1793  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 1794  tree
+ 1795  cat README
+ 1796  cat README.md 
+ 1797  lein
+ 1798  cat project.clj 
+ 1799  cat src/javaxSwing/core.clj 
+ 1800  lein uberjar
+ 1801  lein compile
+ 1802  cd ~/clojure
+ 1803  ls -lc
+ 1804  cd clojure-master/
+ 1805  ls -lc
+ 1806  cat cubeCoords.clj 
+ 1807  cd ~/
+ 1808  lein repl
+ 1809  cd ~/cube444Freetronics/
+ 1810  git status
+ 1811  git pull
+ 1812  git pull https://github.com/MatrixMike/cube444Freetronics
+ 1813  git status
+ 1814  tree
+ 1815  cd ~/
+ 1816  git clone https://github.com/MatrixMike/javaxSwingSMD.git
+ 1817  tree
+ 1818  ls -lc
+ 1819  git pull
+ 1820  tree
+ 1821  lein  compile
+ 1822  lein uberjar
+ 1823  java -jar cube444Freetronics-1.0.0-SNAPSHOT-standalone.jar    one big cat
+ 1824  ls -lct
+ 1825  cd ~/
+ 1826  ls -lctr
+ 1827  cd javaxSwingSMD/
+ 1828  tree
+ 1829  cat project.clj 
+ 1830  cat src/javaxSwingSMD/core.clj 
+ 1831  git pull
+ 1832  tree
+ 1833  lein compile
+ 1834  lein uberjar
+ 1835  java -jar javaxSwingSMD-1.0.0-SNAPSHOT-standalone.jar one big cat
+ 1836  cat src/javaxSwingSMD/core.clj 
+ 1837  cd ~/
+ 1838  ls -lctr
+ 1839  cd ~/
+ 1840  ls -lctr
+ 1841  cat foo.txt 
+ 1842  ls -lctr
+ 1843  cat cube2.txt 
+ 1844  pwd
+ 1845  ls -lc
+ 1846  ls -lctr
+ 1847  cd clojure/clojure-master/hellow/
+ 1848  ls -lc
+ 1849  java -jar hellow-1.0.0-SNAPSHOT-standalone.jar  one big cat
+ 1850  cd ..
+ 1851  ls -lctr
+ 1852  cd pelicans/
+ 1853  tree
+ 1854  java -jar pelicans-1.0.0-SNAPSHOT-standalone.jar 
+ 1855  tree
+ 1856  lein compile
+ 1857  git status
+ 1858  tree
+ 1859  lein clean
+ 1860  lein compile
+ 1861  cd ~/
+ 1862  lein new genClassTest
+ 1863  cd genClassTest/
+ 1864  tree
+ 1865  cat project.clj 
+ 1866  cat src/genClassTest/core.clj 
+ 1867  tree
+ 1868  lein clean
+ 1869  tree
+ 1870  cd src/genClassTest/
+ 1871  ls -lc
+ 1872  cat untitled 
+ 1873  cat core.clj 
+ 1874  rm untitled 
+ 1875  ls -lc
+ 1876  cd ../..
+ 1877  tree
+ 1878  lein compile
+ 1879  tree
+ 1880  lein uberjar
+ 1881  tree
+ 1882  lein compile
+ 1883  tree
+ 1884  lein uberjar
+ 1885  tree
+ 1886  cd ~/clojure/clojure-master/pelicans/
+ 1887  tree
+ 1888  lein clean
+ 1889  lein compile
+ 1890  lein repl
+ 1891  cd ~/
+ 1892  lein repl
+ 1893  clojure1.4
+ 1894  cd clojure/clojure-master/pelicans/
+ 1895  ls -lc
+ 1896  cat src/pelicans/core.clj
+ 1897  tree
+ 1898  lein compile
+ 1899  lein repl
+ 1900  cd ~/
+ 1901  lein repl
+ 1902  ls -lctr
+ 1903  cd bikeGears/
+ 1904  tree
+ 1905  cat project.clj 
+ 1906  cat src/bikeGears/core.clj 
+ 1907  git status
+ 1908  git pull
+ 1909  cat src/bikeGears/core.clj 
+ 1910  cd ~/clojure/clojure-master/
+ 1911  ls -lctr
+ 1912  java -classpath clojure-1.4.0.jar clojure.main showargs.clj
+ 1913  cd ~/clojure2016
+ 1914  ls -lctr
+ 1915  cd clojure/
+ 1916  ls -lctr
+ 1917  cd ~/clojure/
+ 1918  ls -lctr
+ 1919  cd clojure-1.8.0/
+ 1920  ls -lctr
+ 1921  java -classpath clojure-1.8.0.jar clojure.main showargs.clj
+ 1922  java -classpath clojure-1.8.0.jar clojure.main showargs.clj arg1 2 "whitespace etc"
+ 1923  history 
+ 1924  ls -lctr
+ 1925  java -classpath clojure-1.8.0.jar clojure.main showargs.clj arg1 2 "whitespace etc"
+ 1926  clojure
+ 1927  clojure  one big cat
+ 1928  clojure  
+ 1929  java -classpath clojure-1.8.0.jar clojure.main showargs.clj arg1 2 "whitespace etc"
+ 1930  cat showargs.clj
+ 1931  cd aspergers/
+ 1932  ls -lc
+ 1933  cat Kevin1.txt
+ 1934  cat Kevin2.txt 
+ 1935  cd ~/
+ 1936  git clone https://github.com/MatrixMike/leinREPLclojure.git
+ 1937  cd leinREPLclojure/
+ 1938  tree
+ 1939  ls -lct
+ 1940  gitk
+ 1941  lein new demo1
+ 1942  ls -lct
+ 1943  cd demo1/
+ 1944  tree
+ 1945  git status
+ 1946  cd  ~/leinREPLclojure/
+ 1947  git status
+ 1948  ls -lct
+ 1949  git status
+ 1950  git add demo1/
+ 1951  git status
+ 1952  ls
+ 1953  cd demo1/
+ 1954  ls -lctr
+ 1955  cat README 
+ 1956  lein compile
+ 1957  tree
+ 1958  lein uberjar
+ 1959  tree
+ 1960  java -jar demo1-1.0.0-SNAPSHOT-standalone.jar 
+ 1961  lein compile
+ 1962  lein uberjar
+ 1963  java -jar demo1-1.0.0-SNAPSHOT-standalone.jar 
+ 1964  lein compile
+ 1965  lein uberjar
+ 1966  java -jar demo1-1.0.0-SNAPSHOT-standalone.jar 
+ 1967  lein compile
+ 1968  lein uberjar
+ 1969  java -jar demo1-1.0.1-SNAPSHOT-standalone.jar 
+ 1970  tree
+ 1971  git status
+ 1972  cd ..
+ 1973  git status
+ 1974  git add .
+ 1975  git status
+ 1976  gitk
+ 1977  git status
+ 1978  ls -lct
+ 1979  cat demo2.clj 
+ 1980  lein new demo2
+ 1981  tree
+ 1982  cd demo2/
+ 1983  tree
+ 1984  lein compile
+ 1985  lein uberjar
+ 1986  tree
+ 1987  java -jar demo2-1.0.1-SNAPSHOT-standalone.jar 
+ 1988  tree
+ 1989  git status
+ 1990  cd ..
+ 1991  git status
+ 1992  git add demo2/
+ 1993  git status
+ 1994  tree
+ 1995  ls demo2/  -lct
+ 1996  tree
+ 1997  git status
+ 1998  gitk
+ 1999  cd leinREPLclojure/
+ 2000  tree
+ 2001  ls -lct
+ 2002  cat demo5.clj 
+ 2003  cat demo6.clj 
+ 2004  cat demo7.clj 
+ 2005  cat demo8.clj 
+ 2006  cat demo9.clj 
+ 2007  cat demoa.clj 
+ 2008  cat demob.clj 
+ 2009  cat democ.clj 
+ 2010  ls -lct
+ 2011  cat democ.clj 
+ 2012  lein new demo9
+ 2013  cd demo9/
+ 2014  tree
+ 2015  lein compile
+ 2016  lein uberjar
+ 2017  java -jar demo9-1.0.0-SNAPSHOT-standalone.jar 
+ 2018  ls -lct
+ 2019  cat my.log 
+ 2020  cd ..
+ 2021  ls -lct
+ 2022  cat democ.clj 
+ 2023  lein new democ
+ 2024  cd democ/
+ 2025  tree
+ 2026  lein compile
+ 2027  lein uberjar
+ 2028  java -jar democ-1.0.0-SNAPSHOT-standalone.jar 
+ 2029  lein uberjar
+ 2030  lein compile
+ 2031  cd ..
+ 2032  ls -lct
+ 2033  cd ~/
+ 2034  ls -lctr
+ 2035  cd javaxSwing
+ 2036  tree
+ 2037  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 2038  lein compile
+ 2039  lein uberjar
+ 2040  java -jar javaxSwing-1.0.0-SNAPSHOT-standalone.jar 
+ 2041  cd ~/javaxSwingSMD/
+ 2042  tree
+ 2043  java -jar javaxSwingSMD-1.0.0-SNAPSHOT-standalone.jar 
+ 2044  tree
+ 2045  cat project.clj 
+ 2046  tree
+ 2047  lein compile
+ 2048  lein uberjar
+ 2049  tree
+ 2050  java -jar javaxSwingSMD-1.0.1-SNAPSHOT-standalone.jar 
+ 2051  cd ~/clojure/clojure-master/hellow/
+ 2052  tree
+ 2053  lein compile
+ 2054  tree
+ 2055  lein uberjar
+ 2056  tree
+ 2057  java -jar hellow-1.0.2-SNAPSHOT-standalone.jar 
+ 2058  java -jar hellow-1.0.2-SNAPSHOT-standalone.jar  one big cat
+ 2059  tree
+ 2060  git status
+ 2061  cd ../stringEye/
+ 2062  tree
+ 2063  java -jar stringEye-1.0.0-SNAPSHOT-standalone.jar 
+ 2064  lein compile
+ 2065  git status
+ 2066  cd ..
+ 2067  tree
+ 2068  cd stringEye/
+ 2069  tree
+ 2070  lein clean
+ 2071  tree
+ 2072  lein compile
+ 2073  tree
+ 2074  lein uberjar
+ 2075  tree
+ 2076  uptime 
+ 2077  cd ~/leinREPLclojure/
+ 2078  ls -lctr
+ 2079  cd demo1 
+ 2080  tree
+ 2081  java -jar demo1-1.0.1-SNAPSHOT-standalone.jar 
+ 2082  cd ../demo2/
+ 2083  tree
+ 2084  java -jar demo2-1.0.1-SNAPSHOT-standalone.jar 
+ 2085  cd ..
+ 2086  cd demo9/
+ 2087  tree
+ 2088  java -jar demo9-1.0.0-SNAPSHOT-standalone.jar 
+ 2089  ls -lctr
+ 2090  cat my.log 
+ 2091  cd ..
+ 2092  cd democ/
+ 2093  tree
+ 2094  java -jar democ-1.0.0-SNAPSHOT-standalone.jar 
+ 2095  cd ~/javaxSwingSMD/
+ 2096  tree
+ 2097  java -jar javaxSwingSMD-1.0.1-SNAPSHOT-standalone.jar 
+ 2098  git status
+ 2099  java -jar javaxSwingSMD-1.0.1-SNAPSHOT-standalone.jar 
+ 2100  tree
+ 2101  cat project.clj 
+ 2102  cat src/javaxSwingSMD/core.clj 
+ 2103  tree
+ 2104  lein compile
+ 2105  tree
+ 2106  lein uberjar
+ 2107  tree
+ 2108  java -jar javaxSwingSMD-1.0.2-SNAPSHOT-standalone.jar 
+ 2109  lpstat 
+ 2110  date 
+ 2111  ls -lctr
+ 2112  tree
+ 2113  lein clean
+ 2114  tree
+ 2115  lein compile
+ 2116  tree
+ 2117  lein uberjar
+ 2118  tree
+ 2119  git status
+ 2120  history 
+ 2121  history > history1.txt
