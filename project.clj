@@ -3,5 +3,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]]
   
   :main javaxSwingSMD.core
-  
+  :aot :all 
   )
